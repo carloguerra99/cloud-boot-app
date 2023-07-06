@@ -5,10 +5,8 @@ st.title("1727")
 st.header("Ho preso il muro fratellì")
 
 
-selected_option = st.selectbox(
-    "Come la vuoi la coca?",
-    ["In lattina", "In bustina"]
-)
+selected_option = st.selectbox("Come la vuoi la coca?:" , ["In lattina", "In bustina"])
+
 st.write(selected_option)
 
 
