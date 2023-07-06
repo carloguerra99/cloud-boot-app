@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.title("Hello everyone!")
+st.title("1727")
 
-st.header("This is a Streamlit header!")
+st.header("Ho preso il muro fratellì")
 
 
 selected_option = st.selectbox(
@@ -12,4 +12,4 @@ selected_option = st.selectbox(
 st.write(selected_option)
 
 
-st.image("https://www.ldlc.com/it-it/scheda/PB00395869.html")
+st.image("https://nascecresceignora.it/wp-content/uploads/sites/3/2022/09/1663699243649.jpg")
