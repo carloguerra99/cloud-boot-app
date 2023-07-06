@@ -6,8 +6,8 @@ st.header("Ho preso il muro fratellì")
 
 
 selected_option = st.selectbox(
-    "Seleziona opzione:",
-    ["Opzione 1", "Opzione 2"]
+    "Come la vuoi la coca?",
+    ["In lattina", "In bustina"]
 )
 st.write(selected_option)
 
